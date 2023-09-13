@@ -3,11 +3,11 @@
   "port": 8000,
   "webSocketHost": "0.0.0.0",
   "webSocketPort": 8005,
-  "webSocketAddress": "automatic-giggle-7rj4qg79v9w2xvr7-8005.app.github.dev",
+  "webSocketAddress": "didactic-umbrella-x9gq6jrw5jvh674g-8005.github.dev",
   "https": false,
   "webSocketHttps": false,
   "webSocketRegions": {
-    "na": "automatic-giggle-7rj4qg79v9w2xvr7-8005.app.github.dev"
+    "na": "didactic-umbrella-x9gq6jrw5jvh674g-8005.github.dev"
   },
   "defaultRegion": "na",
   "keyFile": "key.pem",
