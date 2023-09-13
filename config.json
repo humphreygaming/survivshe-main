@@ -7,7 +7,7 @@
   "https": false,
   "webSocketHttps": false,
   "webSocketRegions": {
-    "na": "didactic-umbrella-x9gq6jrw5jvh674g-8005.github.dev"
+    "na": "didactic-umbrella-x9gq6jrw5jvh674g-8005.app.github.dev"
   },
   "defaultRegion": "na",
   "keyFile": "key.pem",
