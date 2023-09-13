@@ -1,3 +1,3 @@
-# Surviv Reloaded
+# Surviv.io - Self Host Edition
 
-Surviv Reloaded is an open-source server for the defunct online game surviv.io. Work in progress.
+Surviv.io but revived with the ability to self host the December 2020 client.
