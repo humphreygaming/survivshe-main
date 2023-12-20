@@ -3,7 +3,7 @@
   "port": 8000,
   "webSocketHost": "0.0.0.0",
   "webSocketPort": 8005,
-  "webSocketAddress": "didactic-umbrella-x9gq6jrw5jvh674g-8005.github.dev",
+  "webSocketAddress": "didactic-umbrella-x9gq6jrw5jvh674g-8005.app.github.dev",
   "https": false,
   "webSocketHttps": false,
   "webSocketRegions": {
