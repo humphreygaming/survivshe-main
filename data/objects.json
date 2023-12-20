@@ -16,8 +16,8 @@
   "toilet_random": {
     "type": "random",
     "weights": {
-      "toilet_01": 5,
-      "toilet_02": 1
+      "loot_tier_1": 1,
+      "nothing": 1
     }
   },
   "toilet_random_club": {
@@ -157,10 +157,11 @@
   "container_random_docks_01": {
     "type": "random",
     "weights": {
+      "nothing": 4,
       "container_01": 1,
       "container_02": 1,
       "container_03": 1,
-      "container_06": 0.08
+      "container_06": 26
     }
   },
   "container_random_docks_02": {

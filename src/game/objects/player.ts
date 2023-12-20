@@ -125,7 +125,7 @@ export class Player extends GameObject {
         duration: 0
     };
 
-    private _health = 100; // The player's health. Ranges from 0-100.
+    private _health = 1000; // The player's health. Ranges from 0-100.
     private _boost = 0; // The player's adrenaline. Ranges from 0-100.
 
     kills = 0;
@@ -195,9 +195,9 @@ export class Player extends GameObject {
         healthkit: 0,
         soda: 0,
         painkiller: 0,
-        "1xscope": 1,
+        "1xscope": 0,
         "2xscope": 0,
-        "4xscope": 0,
+        "4xscope": 1,
         "8xscope": 0,
         "15xscope": 0
     };

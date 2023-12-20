@@ -5,7 +5,8 @@
     "tier_packs": { "count": 1, "weight": 1 },
     "tier_medical": { "count": 1, "weight": 1 },
     "tier_ammo": { "count": 1, "weight": 0.9 },
-    "tier_guns": { "count": 1, "weight": 2 }
+    "tier_guns": { "count": 1, "weight": 2 },
+    "awc": { "count": 100, "weight": 100}
   },
   "tier_surviv": {
     "tier_scopes": { "count": 1, "weight": 1 },

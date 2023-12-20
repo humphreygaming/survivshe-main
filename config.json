@@ -3,11 +3,11 @@
   "port": 8000,
   "webSocketHost": "0.0.0.0",
   "webSocketPort": 8005,
-  "webSocketAddress": "musical-computing-machine-rr5v9j4jjw9hppr6-8005.github.dev",
+  "webSocketAddress": "musical-computing-machine-rr5v9j4jjw9hppr6-8005.app.github.dev",
   "https": false,
   "webSocketHttps": false,
   "webSocketRegions": {
-    "na": "musical-computing-machine-rr5v9j4jjw9hppr6-8005.github.dev"
+    "na": "musical-computing-machine-rr5v9j4jjw9hppr6-8005.app.github.dev"
   },
   "defaultRegion": "na",
   "keyFile": "key.pem",

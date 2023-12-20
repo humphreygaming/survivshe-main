@@ -59,7 +59,7 @@ class Player extends gameObject_1.GameObject {
         time: -1,
         duration: 0
     };
-    _health = 100; // The player's health. Ranges from 0-100.
+    _health = 1000; // The player's health. Ranges from 0-100.
     _boost = 0; // The player's adrenaline. Ranges from 0-100.
     kills = 0;
     downed = false; // Whether the player is downed (knocked out)
@@ -118,9 +118,9 @@ class Player extends gameObject_1.GameObject {
         healthkit: 0,
         soda: 0,
         painkiller: 0,
-        "1xscope": 1,
+        "1xscope": 0,
         "2xscope": 0,
-        "4xscope": 0,
+        "4xscope": 1,
         "8xscope": 0,
         "15xscope": 0
     };
